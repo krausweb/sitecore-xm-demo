@@ -21,7 +21,7 @@
         "datasourceIds": [],
         "createdAt": "2023-06-08T08:45:02.309Z",
         "stagedAt": null,
-        "publishedAt": "2023-06-08T13:06:57.252Z",
+        "publishedAt": "2023-06-08T12:50:50.669Z",
         "modifiedAt": "2025-03-12T17:28:28.09Z",
         "modifiedBy": {
           "id": "64c3b872ce8f8907d1eaa6d6",
@@ -32,19 +32,7 @@
           "givenName": "Oleksandr",
           "familyName": "Kryvonos"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "MCzUv9T7CV",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-03-12T17:28:27.384Z",
-            "modifiedAt": "2025-03-12T17:28:27.384Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
